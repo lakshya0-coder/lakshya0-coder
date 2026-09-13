@@ -13,7 +13,7 @@
   <br/><br/>
 
   <!-- Quick Social Badges -->
-  <a href="https://github.com/lakshyajangir5656">
+  <a href="https://github.com/lakshya0-coder">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:lakshyajangir5656@gmail.com">
@@ -32,12 +32,12 @@
 ### ⚡ // SYSTEM_INFO & ABOUT_ME
 
 ```gcode
-root@lakshya:~# cat about_me.json
+root@lakshya0-coder:~# cat about_me.json
 {
   "Developer": "Lakshya",
+  "Handle": "lakshya0-coder",
   "Role": "Systems & Full-Stack Developer",
   "Focus": ["Low-Level Development", "Reverse Engineering", "High-Performance Backends"],
-  "Location": "India",
   "Status": "Building & Hacking 🚀",
   "Current_Goal": "Mastering Linux Kernel Architecture & Distributed Systems"
 }
@@ -73,10 +73,10 @@ root@lakshya:~# cat about_me.json
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshyajangir5656&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshya0-coder&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff" />
   
   <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyajangir5656&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya0-coder&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" />
 
 </div>
 
@@ -85,7 +85,7 @@ root@lakshya:~# cat about_me.json
 <div align="center">
 
   <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyajangir5656&theme=cyberpunk&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideNums=00F0FF&sideTitle=00F0FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya0-coder&theme=cyberpunk&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideNums=00F0FF&sideTitle=00F0FF" alt="GitHub Streak" />
 
 </div>
 
@@ -96,7 +96,7 @@ root@lakshya:~# cat about_me.json
 ### 🏆 // GITHUB TROPHIES
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshyajangir5656&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshya0-coder&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 <br/>
